@@ -4,7 +4,6 @@
 <div class="image-text-wrapper"> 
   <img src="images/Vessels3.jpg" alt="Boats in a harbor" class="overlay-img">
   <div class="overlay-text">Welcome to FISHEyE</div>
-  <div class="subheading">Fisheries Economic Explorer</div>
 </div>
 
 
@@ -32,11 +31,16 @@ FISHEyE is a suite of apps that are used to explore and access West Coast Ground
 
 
 <div class="button-row">
-<a href="https://connect.fisheries.noaa.gov/WestCoastCatchShares/" class="app-button-link"><div class="app-button"><p>Performance Metrics</p><i class="bi bi-chevron-right" style="font-size: 3.5rem; color: #90DFE3;"></i></div></a>
+<a href="https://connect.fisheries.noaa.gov/WestCoastCatchShares/" class="app-button-link"><div class="app-button"><p>Performance Metrics</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
 
   <a href="https://connect.fisheries.noaa.gov/Whiting/" class="app-button-link">
-  <div class="app-button"><p>Whiting</p><i class="bi bi-chevron-right" style="font-size: 3.5rem; color: #90DFE3;"></i></div></a>
+  <div class="app-button"><p>Whiting</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
   
-  <div class="app-button"><p>Purchase & Production</p><i class="bi bi-chevron-right" style="font-size: 3.5rem; color: #90DFE3;"></i></div>
+  <a href="https://www.noaa.gov/" class="app-button-link">
+  <div class="app-button"><p>Purchase & Production</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
+  
+  <a href="https://connect.fisheries.noaa.gov/pcgfss_viz_app/" class="app-button-link">
+  <div class="app-button"><p>Social Survey</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
+  
 </div>
 

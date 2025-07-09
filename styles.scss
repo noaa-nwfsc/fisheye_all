@@ -119,12 +119,12 @@ footer.footer {
 // App button
 
 .app-button {
-  width: 200px;
-  height: 200px;
+  width: 185px;
+  height: 185px;
   background-color: $deep-blue;
   border-radius: 0.5rem;
   color: $white;
-  font-size: 1.3em;
+  font-size: 1.1em;
   text-align: center;
   padding: 1rem;
   display: flex;
@@ -148,7 +148,7 @@ footer.footer {
 
 .button-row {
   display: flex;
-  gap: 1.5em;
+  gap: .5em;
   flex-wrap: wrap;
   justify-content: center;
   margin: 2em 0;
