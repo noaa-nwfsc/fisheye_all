@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.0",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "index.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.57",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_quarto.yml": {
+      "checksum": "523350a33fba8a69d0bcc734fe2404e9"
+    },
+    "about.qmd": {
+      "checksum": "cfe76295c1331118d37bc470cdf2e5d3"
+    },
+    "docs/about.html": {
+      "checksum": "e7d26345c679b7e2f5cffb24a72a0a2c"
+    },
+    "docs/index.html": {
+      "checksum": "6bab7786429e5e3943926172928bcd15"
+    },
+    "docs/literature.html": {
+      "checksum": "d0500df53bde16159baf341ac01b53b3"
+    },
+    "docs/resources.html": {
+      "checksum": "829578e6ab3fcb862d1b30bb4cac0b0a"
+    },
+    "docs/search.json": {
+      "checksum": "8ce605b871f400e0890cfb87e4d71e49"
+    },
+    "docs/site_libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "docs/site_libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "docs/site_libs/bootstrap/bootstrap.min.css": {
+      "checksum": "bbaab8351f9b960cb11734f449a5099b"
+    },
+    "docs/site_libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "docs/site_libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "docs/site_libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css": {
+      "checksum": "ab2b9e94a89b131e869fd951d6355545"
+    },
+    "docs/site_libs/quarto-html/quarto.js": {
+      "checksum": "7563d37e31580c9573af5b12aa3779a2"
+    },
+    "docs/site_libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "docs/site_libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "docs/site_libs/quarto-nav/headroom.min.js": {
+      "checksum": "ace0360e576db9b6e7df48ac68ddbbf4"
+    },
+    "docs/site_libs/quarto-nav/quarto-nav.js": {
+      "checksum": "12d334846b27bdb493298c08277bdf7f"
+    },
+    "images/NOAA_Fisheries_logo_vertical.png": {
+      "checksum": "4e0f54eb86ad5e67d6dfd31a177f6927"
+    },
+    "images/NOAA_FISHERIES_logoH.png": {
+      "checksum": "958d958c7d7108909f27fa0e08e70007"
+    },
+    "images/noaalogo.png": {
+      "checksum": "61cef42110a4d9f776e8db7ae92b2f5b"
+    },
+    "images/perfmetricsbutton.png": {
+      "checksum": "2bbb44ee5fc4783b05a7c704bb8886df"
+    },
+    "images/Vessels1.jpg": {
+      "checksum": "630e27eca9e7e8220d19b14ba68f6490"
+    },
+    "images/Vessels2.jpg": {
+      "checksum": "0d0f706e92e635d1067a567da3e8706b"
+    },
+    "images/Vessels3.jpg": {
+      "checksum": "c053c5067160b7f327193084614563d9"
+    },
+    "images/whitingbutton.png": {
+      "checksum": "86e611cd03b70a080b40e4d87d5063fd"
+    },
+    "images/Working.jpg": {
+      "checksum": "ebd0e408907066dc63f4ffa664728928"
+    },
+    "index.qmd": {
+      "checksum": "b347b497d8d0d975109372d2a60e6310"
+    },
+    "literature.qmd": {
+      "checksum": "3e1e4d65b8e5eaf0b7edb9e2cfac95c1"
+    },
+    "README.md": {
+      "checksum": "4bd06c3e2171505521308ff60b3c31af"
+    },
+    "resources.qmd": {
+      "checksum": "522190efbaba1b31b9ffa90ed47866f5"
+    },
+    "styles.scss": {
+      "checksum": "bf3b56ed2e66da03c4444033f0c9e835"
+    }
+  },
+  "users": null
+}
