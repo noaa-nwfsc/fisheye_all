@@ -1,0 +1,214 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+// Colors
+$light-blue: #C2D9E3;
+$white: #E9F3F6;
+$dark-green: #005E5E;
+$deep-blue: #053660;
+$light-turq: #5EB6D9;
+$baby-blue: #90DFE3;
+
+// Base document colors
+$navbar-bg: $dark-green; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $light-turq; // highlight color when hovering over navbar links
+$body-bg: $white; // page background
+$body-color: $dark-green; // page text
+$footer-bg: $dark-green; // footer
+$link-color: $light-turq; // hyperlinks
+
+// navbar dropdown
+$dropdown-bg: $white; ////navbar menu dropdown background color
+$dropdown-border-color: rgba($deep-blue, 0.7);
+$dropdown-link-hover-bg: transparent; //navbar menu dropdown link hover
+$dropdown-link-active-bg: transparent; //navbar menu dropdown link hover
+$dropdown-link-hover-color: $light-turq;
+
+// Inline code
+$code-bg: $light-blue; // inline code background color
+$code-color: $deep-blue; // inline code text color
+
+code {
+  border-radius: 6px;         /* Rounded corners */
+}
+
+.navbar-nav .dropdown-menu {
+  min-width: 100% !important;
+  border-radius: .5rem;
+
+}
+
+// Page footer height
+footer.footer {
+  font-size: .7em; /* Optional: slightly smaller text */
+
+}
+
+.title, h3 {
+  letter-spacing: 2px;
+  color: $deep-blue !important;
+}
+
+.title {
+  text-align: center;
+}
+
+
+.image-text-wrapper {
+  position: relative;
+  text-align: center;
+  max-width: 100%;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.overlay-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 5px 8px rgba($deep-blue, 0.6);
+}
+
+// Welcom to FISHEyE header text Home page
+.overlay-text {
+  position: absolute;
+  top: 50px;              // space from the top edge of the image
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 1.7rem;
+  font-weight: bold;
+  background-color: rgba($deep-blue, 0.8); // optional background for readability
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.5rem;
+}
+
+// Fisheries Economic Explorer subheading text Home page
+.subheading {
+  position: absolute;
+  top: 220px;              // space from the top edge of the image
+  left: 23%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 1.2rem;
+
+}
+
+//css for floating image of workign fishermen on about page
+.float-right-image {
+  float: right;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+  width: 275px;
+  border-radius: 14px;
+  box-shadow: 0 5px 8px rgba($deep-blue, 0.6);
+}
+
+.large-text {
+  font-size: 1.3rem;  // Adjust as needed (1rem = base size)
+  line-height: 1.6;
+  text-align: center;
+}
+
+
+
+// App button
+
+.app-button {
+  width: 200px;
+  height: 200px;
+  background-color: $deep-blue;
+  border-radius: 0.5rem;
+  color: $white;
+  font-size: 1.3em;
+  text-align: center;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px rgba($deep-blue, 0.2);
+  border: 4px solid $baby-blue;
+  transition: transform 0.2s ease, box-shadow 0.2s ease; // transition of button pop out when hovered
+}
+
+.app-button p {
+  min-height: 2.5em; // Adjust this based on expected 2-line height
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+// App button flex table-layout:
+
+.button-row {
+  display: flex;
+  gap: 1.5em;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2em 0;
+}
+
+// App button hover
+.app-button:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 4px 8px 15px rgba($deep-blue, 0.3);
+}
+
+// app button web link
+.app-button-link {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+// Navbar hover
+
+/* Smooth transition on nav links */
+.navbar-nav .nav-link {
+  transition: all 0.2s ease;
+}
+
+/* Pop effect on hover */
+.navbar-nav .nav-link:hover {
+  transform: translateY(-2px);
+  color: $light-turq !important; /* or your accent color */
+}
+
+/* Style the active (selected) nav link */
+.navbar-nav .nav-link.active {
+  font-weight: 500;
+  transform: translateY(-2px);
+  border-bottom: 2px solid $light-turq; /* optional underline */
+  color: $light-turq !important;
+}
+
+//Navbar logo
+
+.navbar-brand img {
+  height: 3rem; /* Adjust as needed */
+  width: auto;
+  max-height: 100%;
+}
+
+.navbar {
+  height: 3.5rem; /* Standard Bootstrap height */
+}
+
+.navbar-brand:hover {
+  color: inherit !important;
+  text-decoration: none;
+  cursor: default;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+---
+title: "Resources"
+---
+
+<span style="font-size: 1.3em; font-style: italic;">Please visit the following websites for more information:</span>
+
+- [Pacific Fishery Management Council](http://www.pcouncil.org/groundfish/background/)
+
+- [West Coast Regional Office](http://www.westcoast.fisheries.noaa.gov/)
+
+- [West Coast Groundfish Trawl Catch Share Program](http://www.westcoast.fisheries.noaa.gov/fisheries/groundfish_catch_shares/)
+
+- [Northwest Fisheries Science Center (NWFSC)](http://www.nwfsc.noaa.gov/index.cfm)
+
+- [Economic and Social Science Research (ESSR) Program at the NWFSC](http://www.nwfsc.noaa.gov/research/divisions/fram/economic/index.cfm)
+
+- [Economic Data Collection (EDC) Program](http://www.nwfsc.noaa.gov/research/divisions/fram/economic/overview.cfm)
+
+
+- [EDC Reports](http://www.nwfsc.noaa.gov/research/divisions/fram/economic/economic_data_reports.cfm)
+
+- [EDC Forms](http://www.nwfsc.noaa.gov/research/divisions/fram/economic/economic_data_forms.cfm)
+
+
+- [Infographic describing sectors participating in the catch share program](http://www.nwfsc.noaa.gov/news/features/infographics/index.cfm)
+
+- [Pacific Fisheries Information Network (PacFIN)](http://pacfin.psmfc.org/)
+
+- [Commercial Regulations Database - a database containing federal commercial groundfish regulations (1983-2017)](https://calcom.psmfc.org/regulation_main.asp)
+
+- [West Coast impacts](https://www.nwfsc.noaa.gov/assets/25/1620_08012011_142237_InputOutputModelTM111WebFinal.pdf)
+

@@ -1,0 +1,66 @@
+---
+title: "About FISHEyE"
+---
+
+
+<div class="image-text-wrapper"> 
+  <img src="images/Vessels1.jpg" alt="Boats in a harbor" class="overlay-img">
+</div>
+
+FISHEyE is an interactive tool for exploring data from the West Coast Groundfish Trawl Catch Share Program. It provides metrics to track and evaluate the catch share program. The metrics are not intended to be interpreted as causal, directional, nor normative but, rather, to facilitate the examination of trends and changes. Data used in FISHEyE comes from the Economic Data Collection <a href="https://www.nwfsc.noaa.gov/research/divisions/fram/economic/overview.cfm" target="_blank">(EDC)</a> Program and the Pacific Fisheries Information Network ([PacFIN](http://pacfin.psmfc.org/)).
+
+As part of the catch share program, participants of the fishery are required to complete [EDC survey forms](https://www.nwfsc.noaa.gov/research/divisions/fram/economic/overview.cfm) as stated in [regulation 50 CFS 660.114](http://www.ecfr.gov/cgi-bin/text-idx?SID=06f0c396e52e564ce22a048aa910f49f&node=50:13.0.1.1.1.4.1.5&rgn=div8) Data collection began in 2009, two years prior to implementing the catch share program. All vessels that participate in the catch share program must report data for all fisheries they participate in, including non-catch share fisheries.
+
+<br>
+
+
+### West Coast Groundfish Trawl Catch Share Fishery
+
+***
+
+The fishery consists of cooperatives for the at-sea mothership and catcher-processor fleets, and an individual fishing quota (IFQ) program for the shorebased trawl fleet (catcher vessels, and first receivers and shorebased processors). The catch share program was implemented in 2011 with several goals, including:
+
+<img src="images/Working.jpg" class = "float-right-image" alt="Fishermen working in the evening">
+
+
+-   Provide for a viable, profitable, and efficient groundfish fishery
+
+-   Increase operational flexibility
+
+-   Minimize adverse effects on fishing communities and other fisheries to the extent practical
+
+-   Promote measurable economic and employment benefits through the seafood catching, processing, distribution, and support sectors of the industry
+
+
+Please refer to the links in the [Resources](resources.qmd) section for more detailed information about the fishery.
+
+<br>
+
+### Confidentiality
+
+***
+
+Data confidentiality requirements do not allow us to show individual observations. Therefore, we aggregate or summarize the data to protect individual confidentiality. Data queries that would display confidential data are not plotted or made available to download. In these cases, the number of observations will be shown in the data table, but the value will be shown as `NA`. Where possible, data are reported for all vessels combined, whiting vessels, and non-whiting vessels. If there are fewer than three vessels in either the whiting or non-whiting category we will only report the “All vessels” category. More information on data confidentiality requirements can be found in the [EDC Administration and Operations Report](http://www.nwfsc.noaa.gov/research/divisions/fram/documents/Administration_Operations_Report_2014.pdf)
+
+<br>
+
+### Disclaimer
+
+***
+
+  1. The data used in this application are periodically updated and subject to change. Data updates are recorded in the FISHEyE blog.
+
+  2. This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
+
+
+<br>
+
+### Acknowledgements
+
+***
+<img src="images/NOAA_FISHERIES_logo_vertical.png" alt="Fishermen working in the evening" style = "float: right;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+  width: 100px;">
+
+There are numerous individuals to thank for their contributions in developing FISHEyE. We thank the Northwest Fisheries Science Center (NWFSC) economists and application developers, Scientific Data Management staff, and Information Technology staff. We thank PacFIN for providing landings information. NMFS Office of Science and Technology and NMFS Office of Sustainable Fisheries provided support. Numerous individuals reviewed the application and we thank them for their helpful comments and suggestions. Finally and very importantly, we thank the members of the West Coast fishing industry who have supplied information to the EDC Program.
