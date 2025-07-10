@@ -17,7 +17,7 @@
 
 ***
 
-FISHEyE is a suite of apps that are used to explore and access West Coast Groundfish Trawl Catch Share program data. The data were collected by the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/region/west-coast/northwest-science) Economics and Social Science Program and include data from the Economic Data Collection Program, the NWFSC Pacific Coast Groundfish Social Science Survey. [PacFIN](https://pacfin.psmfc.org/home/) data are also incorporated into the data tools.
+FISHEyE is a suite of apps that are used to explore and access West Coast Groundfish Trawl Catch Share program data. The data were collected by the [Northwest Fisheries Science Center (NWFSC)](https://www.fisheries.noaa.gov/region/west-coast/northwest-science) Economics and Social Science Program and include data from the Economic Data Collection Program, the NWFSC Pacific Coast Groundfish Fishery Social Survey ([PCGFSS](https://www.fisheries.noaa.gov/west-coast/socioeconomics/west-coast-groundfish-trawl-fishery-social-study)). [PacFIN](https://pacfin.psmfc.org/home/) data are also incorporated into the data tools.
 
 ***
 
@@ -40,7 +40,7 @@ FISHEyE is a suite of apps that are used to explore and access West Coast Ground
   <div class="app-button"><p>Purchase & Production</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
   
   <a href="https://connect.fisheries.noaa.gov/pcgfss_viz_app/" class="app-button-link">
-  <div class="app-button"><p>Social Survey</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
+  <div class="app-button"><p>PCGFSS<br>Social Survey</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
   
 </div>
 
