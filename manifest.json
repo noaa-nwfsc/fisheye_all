@@ -19,13 +19,13 @@
       "checksum": "523350a33fba8a69d0bcc734fe2404e9"
     },
     "about.qmd": {
-      "checksum": "cfe76295c1331118d37bc470cdf2e5d3"
+      "checksum": "4574a508e58ed4670b897e14603f0e9d"
     },
     "docs/about.html": {
-      "checksum": "e7d26345c679b7e2f5cffb24a72a0a2c"
+      "checksum": "14e1ecaa66b71595f67065e62b77e90d"
     },
     "docs/index.html": {
-      "checksum": "6bab7786429e5e3943926172928bcd15"
+      "checksum": "44071c3b086fb6e0ce77e0fc79318439"
     },
     "docs/literature.html": {
       "checksum": "d0500df53bde16159baf341ac01b53b3"
@@ -34,7 +34,7 @@
       "checksum": "829578e6ab3fcb862d1b30bb4cac0b0a"
     },
     "docs/search.json": {
-      "checksum": "8ce605b871f400e0890cfb87e4d71e49"
+      "checksum": "64fd1354f3a81ef03dbbb9d36c3782c2"
     },
     "docs/site_libs/bootstrap/bootstrap-icons.css": {
       "checksum": "2318f137d201fbf51601fa0faba6bef7"
@@ -100,7 +100,7 @@
       "checksum": "ebd0e408907066dc63f4ffa664728928"
     },
     "index.qmd": {
-      "checksum": "b347b497d8d0d975109372d2a60e6310"
+      "checksum": "706aa8ac5d20a1395ff93f653a59db79"
     },
     "literature.qmd": {
       "checksum": "3e1e4d65b8e5eaf0b7edb9e2cfac95c1"
