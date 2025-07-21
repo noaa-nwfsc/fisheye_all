@@ -25,7 +25,7 @@
       "checksum": "14e1ecaa66b71595f67065e62b77e90d"
     },
     "docs/index.html": {
-      "checksum": "c7db6f107e2f2794c46211387f119501"
+      "checksum": "c392abf7010b3a601d01fc2b3cb217b2"
     },
     "docs/literature.html": {
       "checksum": "d0500df53bde16159baf341ac01b53b3"
@@ -34,7 +34,7 @@
       "checksum": "829578e6ab3fcb862d1b30bb4cac0b0a"
     },
     "docs/search.json": {
-      "checksum": "682e2ee5103725bcfc2aa63ea72a3967"
+      "checksum": "a9050e1f1f40301ebe68532bbe89ceda"
     },
     "docs/site_libs/bootstrap/bootstrap-icons.css": {
       "checksum": "2318f137d201fbf51601fa0faba6bef7"
@@ -100,7 +100,7 @@
       "checksum": "ebd0e408907066dc63f4ffa664728928"
     },
     "index.qmd": {
-      "checksum": "d2cf585ffd2dc33d2dbdb6e24a627b93"
+      "checksum": "95cf4c308a98cd2c0a127c6a85a73209"
     },
     "literature.qmd": {
       "checksum": "3e1e4d65b8e5eaf0b7edb9e2cfac95c1"

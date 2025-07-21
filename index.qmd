@@ -59,6 +59,8 @@ FISHEyE is a suite of apps that are used to explore and access West Coast Ground
   - [FRAM Data Warehouse](https://www.webapps.nwfsc.noaa.gov/data/map)
 
   - [gemm](https://connect.fisheries.noaa.gov/gemm_csv/)
+  
+  - [Quota Pound Price Data](https://www.webapps.nwfsc.noaa.gov/apex/ifq/f?p=155:25::::)
 
 
 
