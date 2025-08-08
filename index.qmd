@@ -36,7 +36,7 @@ FISHEyE is a suite of apps that are used to explore and access West Coast Ground
   <a href="https://connect.fisheries.noaa.gov/Whiting/" class="app-button-link">
   <div class="app-button"><p>Whiting</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
   
-  <a href="https://test-connect.fisheries.noaa.gov/content/e1b5f61a-db6f-42bc-b7f1-804920ba5011" class="app-button-link">
+  <a href="https://connect.fisheries.noaa.gov/purch_prod/" class="app-button-link">
   <div class="app-button"><p>Purchase & Production</p><i class="bi bi-chevron-right" style="font-size: 2.5rem; color: #90DFE3;"></i></div></a>
   
   <a href="https://connect.fisheries.noaa.gov/pcgfss_viz_app/" class="app-button-link">
