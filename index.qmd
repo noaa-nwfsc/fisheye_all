@@ -61,6 +61,8 @@ FISHEyE is a suite of apps that are used to explore and access West Coast Ground
   - [gemm](https://connect.fisheries.noaa.gov/gemm_csv/)
   
   - [Quota Pound Price Data](https://www.webapps.nwfsc.noaa.gov/apex/ifq/f?p=155:25::::)
+  
+  -  [Input-Output Model for Pacific Coast Fisheries](https://github.com/allen-chen-noaa-gov/IOPAC_pub)
 
 
 
